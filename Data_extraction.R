@@ -19,10 +19,10 @@ write.csv(data3, "couple_recode.csv")
 data4 <- read_dta("DHS DATA/NG_2018/NGFW7ADT/NGFW7AFL.DTA")
 write.csv(data4, "fieldwork_questionaire.csv")
 #Household Recode
-
+data5
 #Children's Recode
-
+data6
 #Men's Recode
-
+data7
 #Household Member Recode
 
